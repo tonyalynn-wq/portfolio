@@ -16,7 +16,7 @@ As a perpetual student in life, I am learning more about data science and analyt
 
 ### 1. Real Estate Analysis
 A close look at a residential real estate dataset and the impacts different features have on sale price.
-* [Live Demo](https://github.io) | [Source Code](https://github.com)
+* [Source Code]([https://github.com](https://github.com/tonyalynn-wq/residential_real_estate_1.git))
 
 ### 2. Project Name Two
 A brief 1-2 sentence description of what this project does and why you built it.
